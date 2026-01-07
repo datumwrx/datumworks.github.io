@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://datum-works.com/sitemap.xml
